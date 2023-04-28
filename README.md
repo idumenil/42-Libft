@@ -1,2 +1,2 @@
 # Libft
-1er projet du cursus 42 qui consiste a créer sa propre bibliothèque en C
+The main goal of this project is to consolidate programming basis learned during the Piscine. This library will be used during the 42 cursus and completed regularly. 
