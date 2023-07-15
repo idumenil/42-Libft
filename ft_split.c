@@ -48,7 +48,7 @@ static char	*ft_strdup_mod(const char *s, char c, size_t *i)
 		j++;
 	}
 	j = 0;
-	dest = malloc(len + 1 * sizeof(char));
+	dest = malloc((len + 1) * sizeof(char));
 	if (!dest)
 		return (NULL);
 	while (s[*i] != c && s[*i] != '\0')
